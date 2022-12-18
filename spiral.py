@@ -1,3 +1,5 @@
+### Author: Soulacex ###
+
 import turtle
 
 # Create the turtle
